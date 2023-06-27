@@ -5,3 +5,5 @@
 ## [ASR9KE Lab Assignments and Course Module Information 2023-JUN-26 to 30 VILT EDT (Google Sheet)](https://docs.google.com/spreadsheets/d/17fKUDMLMKitnYa195uy2jdcQXx_Bt3R_BIjNDdU2Miw/edit?usp=sharing)
 
 ## [Helpful Links for Cisco ASR9K and Segment Routing on Cisco IOS XR (Google Doc)](https://docs.google.com/document/d/1RFZEV2qxnsR05hWsKrO9dyimbteiWZRqAUyQdQ4PqZE/edit?usp=sharing)
+
+## [Mid Course Feedback ASR9KE VILT EDT 2023-JUN-26 to 29](https://forms.gle/rfxnBNMuYWFQKQL89)
